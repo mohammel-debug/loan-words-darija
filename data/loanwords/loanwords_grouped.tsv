@@ -1,385 +1,159 @@
-root	form																								
-2otel	"2otel
-l2otel
-loTil
-loTilat
-lhotel
-lotel"																								
-alarm	"lalarm
-alarm"																								
-aplication	"lapplication
-application"																								
-asensor	"assanssour
-ssansour
-ssanssour
-ascenseur"																								
-banka	"banka
-lbanka"																								
-basket	"basket
-baskit
-lbasket"																								
-batri	"lbatterie
-batri"																								
-biro	"lburo
-bureau
-biro"																								
-bit	"bit
-lbit"																								
-"blan
-blana"	"blan
-kayblaniw
-lblan
-nblaniw
-nblniw
-meblanin"																								
-blasa	"blassi
-blassa
-blassti
-lblassa
-lblayss
-blayss"																								
-bloka	"mbloki
-mblokyin"																								
-bolis	"bolis
-lbolis
-lboliss
-lbouliss
-bouliss"																								
-boton	"boton
-boTon
-lboutoun
-boutoun"																								
-bwata	"lboita
-lbwaTa
-bwaTa"																								
-car	"lcar
-lkar"																								
-carta	"karTa
-carta
-carte
-crtat"																								
-charge	"charge
-charje
-charji
-ncharger
-charj
-ntelechargi
-makitcharjach
-ytcharja
-mcharji
-ncharji
-nxarji
-tcharger
-tcharji
-decharja
-ytxrja"																								
-chifor	"chifforat
-chiforat"																								
-chinwi	"chinwa
-chinwi"																								
-choklat	"choklat
-chchklaT
-cheklat"																								
-clian	"lcliane
-lclyan
-lclian
-klyan"																								
-cocktail	"cocktail
-lcocktail"																								
-cod	"code
-lcode
-lkod"																								
-comonda	"ncommandiw
-tcommandiha
-ncomandi
-commandi"																								
-compte	"compte
-lcompte"																								
-conexion	"connexion
-conneksion
-connexión"																								
-coupat	"lcoupat
-lcoupa"																								
-cozina	"lcouzina
-flcouzina
-cousina
-kouzina
-lkouzina"																								
-credi	"kridi
-credit
-cridi"																								
-declara	"ndkilari
-diklari"																								
-deuxieme	"deuzieme
-deuxieme"																								
-dikor	"decorassioun
-dikor"																								
-disir	"ddisir
-dissir"																								
-dobl	"Dobl
-doble"																								
-douch	"douchat
-douche
-kandowech
-dwcht"																								
-etage	"etages
-etage"																								
-film	"lfilm
-lfilmat
-filmat
-film
-aflam"																								
-forchita	"forchiTa
-lforchiTa
-lfrchiTa"																								
-formaj	"lframj
-lfrmaj
-formaj"																								
-fronsi	"fransai
-francais
-fronsi"																								
-japon	"japoniya
-japon"																								
-jrda	"jjrda
-jjrida"																								
-kado	"kado
-kadowat
-lkado
-cado"																								
-kika	"kika
-kikat"																								
-kilometr	"kilometre
-km"																								
-kokies	"kookiz
-kookizat
-biskwit
-cookies
-lcookies"																								
-komik	"komik
-koumik"																								
-ksida	"lkssida
-lksida
-ksayd
-ksida
-accident"																								
-ksira	"ksirat
-nkssiri
-mekssirin"																								
-lapisin	"la piscine
-lapisin
-piscine"																								
-longlai	"anglais
-ngalza"																								
-madam	"madam
-madame"																								
-marche	"marchi
-marche"																								
-marka	"tmarki
-5aymarka
-markaw
-marki
-maytmarkach
-nmarki
-tmarka
-ymarki
-ytmarka"																								
-match	"lmatch
-match"																								
-math	"math
-maths"																								
-mecanisian	"lmecanician
-lmecanissyan"																								
-mirikan	"mirikan
-mirikani"																								
-misaj	"message
-misaj
-lmessage"																								
-motiva	"nmotivih
-motivatna"																								
-motor	"lmoTour
-motor
-lmotor"																								
-nmra	"nnmra
-nmra
-nmrti"																								
-partma	"partma
-parTma
-departement"																								
-pc	"pissi
-pc
-PC"																								
-pinalti	"lpinaltiyat
-lpiplantiyat
-pilantiyat"																								
-placa	"lblakka
-blaka"																								
-produi	"produiyat
-lproduit
-lrpoduit"																								
-program	"program
-programat
-programme
-lprogram"																								
-restora	"resTora
-restora"																								
-rezerva	"trezervi
-nrezervi
-rezervi
-reservi
-nreserviw
-mrizirvi
-rservation"																								
-rijim	"rrijim
-regime"																								
-rizo	"reseau
-riso
-rizo
-rrizo"																								
-rondivo	"rendez-vous
-rodivo
-rendez vous"																								
-																									
-sak	"SSac
-Sak
-sak
-sac
-saki"																								
-salon	"Salon
-salon"																								
-sandwich	"sandwich
-sanwichat
-sandwichat"																								
-sbitar	"sbiTar
-sbitar
-sbitar"																								
-scana	"tscana
-tscani"																								
-secreti	"secretaire
-sikiriti
-sikritira"																								
-sector	"sikteur
-ssikteur"																								
-simana	"simana
-simanat
-ssimana"																								
-sinyal	"ssinyal
-sinyal
-signal"																								
-sit	"sit
-site
-site"																								
-sold	"solde
-msoldi"																								
-sona	"sonat
-kisoni
-nsoni"																								
-stage	"stg
-stage"																								
-stilo	"stylowat
-stylo"																								
-supermarchi	"super marche
-supermarchi"																								
-tabla	"TTbla
-tabla
-Tbla"																								
-taliani	"taliania
-talyania
-Talyania"																								
-tbronza	"tbronza
-ntbronza"																								
-ticket	"tickeyat
-tickiat"																								
-tilifon	"tilifon
-tilifoni
-tilifonk
-tilifoun
-tilifouni
-tilifounk
-telefon
-telephone
-tilifoune
-tilifounek
-tiliphonek"																								
-tkalma	"ntkalma 
-mkalmi
-ycalmini"																								
-tobis	"Tobis
-Tobisat
-ttobis
-tobis
-mini-bus"																								
-tomobil	"tomobilat
-tomobilti
-tonibilti
-tonobil
-tonobilat
-tomobil
-tomobila
-Tomobil
-tonobila
-tonobiltek"																								
-trina	"trini
-kaytrini
-ntrini
-ntriniw"																								
-weekend	"weekend
-lweekend"																								
-rapaport																									
-rwayd																									
-rythme																									
-salle																									
-sectour																									
-siro																									
-ski																									
-snack																									
-snitt																									
-telecommande																									
-tiran																									
-tournowa																									
-train																									
-villa																									
-briya																									
-caisse																									
-capitaine																									
-carte nationale																									
-direct																									
-lbagaje																									
-lconcert																									
-lcoumissariat																									
-lgodron																									
-lmarkat																									
-lpark																									
-lpossession																									
-master																									
-mita																									
-nmonti																									
-stoki																									
-taches																									
-touniyat																									
-traita																									
-5aytperima																									
-autorout																									
-bar																									
-berra																									
-chimie																									
-clochar																									
-cylindre																									
-defaut																									
-dossier																									
-droit																									
-en panne																									
-klasiki																									
-lbarrajat																									
-lcontrat																									
-lfran																									
-lkask																									
-lkra																									
-lmantat																									
-lpnou																									
-lqualite																									
-noir																									
-piessa																									
-possession																									
-premier																									
-remontada																									
-tabyas																									
+root	form
+2otel	2otel, l2otel, loTil, loTilat, lhotel, lotel
+alarm	lalarm, alarm
+aplication	lapplication, application
+asensor	assanssour, ssansour, ssanssour, ascenseur
+banka	banka, lbanka
+basket	basket, baskit, lbasket
+batri	lbatterie, batri
+biro	lburo, bureau, biro
+bit	bit, lbit
+blan, blana	blan, kayblaniw, lblan, nblaniw, nblniw, meblanin
+blasa	blassi, blassa, blassti, lblassa, lblayss, blayss
+bloka	mbloki, mblokyin
+bolis	bolis, lbolis, lboliss, lbouliss, bouliss
+boton	boton, boTon, lboutoun, boutoun
+bwata	lboita, lbwaTa, bwaTa
+car	lcar, lkar
+carta	karTa, carta, carte, crtat
+charge	charge, charje, charji, ncharger, charj, ntelechargi, makitcharjach, ytcharja, mcharji, ncharji, nxarji, tcharger, tcharji, decharja, ytxrja
+chifor	chifforat, chiforat
+chinwi	chinwa, chinwi
+choklat	choklat, chchklaT, cheklat
+clian	lcliane, lclyan, lclian, klyan
+cocktail	cocktail, lcocktail
+cod	code, lcode, lkod
+comonda	ncommandiw, tcommandiha, ncomandi, commandi
+compte	compte, lcompte
+conexion	connexion, conneksion, connexión
+coupat	lcoupat, lcoupa
+cozina	lcouzina, flcouzina, cousina, kouzina, lkouzina
+credi	kridi, credit, cridi
+declara	ndkilari, diklari
+deuxieme	deuzieme, deuxieme
+dikor	decorassioun, dikor
+disir	ddisir, dissir
+dobl	Dobl, doble
+douch	douchat, douche, kandowech, dwcht
+etage	etages, etage
+film	lfilm, lfilmat, filmat, film, aflam
+forchita	forchiTa, lforchiTa, lfrchiTa
+formaj	lframj, lfrmaj, formaj
+fronsi	fransai, francais, fronsi
+japon	japoniya, japon
+jrda	jjrda, jjrida
+kado	kado, kadowat, lkado, cado
+kika	kika, kikat
+kilometr	kilometre, km
+kokies	kookiz, kookizat, biskwit, cookies, lcookies
+komik	komik, koumik
+ksida	lkssida, lksida, ksayd, ksida, accident
+ksira	ksirat, nkssiri, mekssirin
+lapisin	la piscine, lapisin, piscine
+longlai	anglais, ngalza
+madam	madam, madame
+marche	marchi, marche
+marka	tmarki, 5aymarka, markaw, marki, maytmarkach, nmarki, tmarka, ymarki, ytmarka
+match	lmatch, match
+math	math, maths
+mecanisian	lmecanician, lmecanissyan
+mirikan	mirikan, mirikani
+misaj	message, misaj, lmessage
+motiva	nmotivih, motivatna
+motor	lmoTour, motor, lmotor
+nmra	nnmra, nmra, nmrti
+partma	partma, parTma, departement
+pc	pissi, pc, PC
+pinalti	lpinaltiyat, lpiplantiyat, pilantiyat
+placa	lblakka, blaka
+produi	produiyat, lproduit, lrpoduit
+program	program, programat, programme, lprogram
+restora	resTora, restora
+rezerva	trezervi, nrezervi, rezervi, reservi, nreserviw, mrizirvi, rservation
+rijim	rrijim, regime
+rizo	reseau, riso, rizo, rrizo
+rondivo	rendez-vous, rodivo, rendez vous
+sak	SSac, Sak, sak, sac, saki
+salon	Salon, salon
+sandwich	sandwich, sanwichat, sandwichat
+sbitar	sbiTar, sbitar, sbitar
+scana	tscana, tscani
+secreti	secretaire, sikiriti, sikritira
+sector	sikteur, ssikteur
+simana	simana, simanat, ssimana
+sinyal	ssinyal, sinyal, signal
+sit	sit, site
+sold	solde, msoldi
+sona	sonat, kisoni, nsoni
+stage	stg, stage
+stilo	stylowat, stylo
+supermarchi	super marche, supermarchi
+tabla	TTbla, tabla, Tbla
+taliani	taliania, talyania, Talyania
+tbronza	tbronza, ntbronza
+ticket	tickeyat, tickiat
+tilifon	tilifon, tilifoni, tilifonk, tilifoun, tilifouni, tilifounk, telefon, telephone, tilifoune, tilifounek, tiliphonek
+tkalma	ntkalma, mkalmi, ycalmini
+tobis	Tobis, Tobisat, ttobis, tobis, mini-bus
+tomobil	tomobilat, tomobilti, tonibilti, tonobil, tonobilat, tomobil, tomobila, Tomobil, tonobila, tonobiltek
+trina	trini, kaytrini, ntrini, ntriniw
+weekend	weekend, lweekend
+rapaport	
+rwayd	
+rythme	
+salle	
+sectour	
+siro	
+ski	
+snack	
+snitt	
+telecommande	
+tiran	
+tournowa	
+train	
+villa	
+briya	
+caisse	
+capitaine	
+carte nationale	
+direct	
+lbagaje	
+lconcert	
+lcoumissariat	
+lgodron	
+lmarkat	
+lpark	
+lpossession	
+master	
+mita	
+nmonti	
+stoki	
+taches	
+touniyat	
+traita	
+5aytperima	
+autorout	
+bar	
+berra	
+chimie	
+clochar	
+cylindre	
+defaut	
+dossier	
+droit	
+en panne	
+klasiki	
+lbarrajat	
+lcontrat	
+lfran	
+lkask	
+lkra	
+lmantat	
+lpnou	
+lqualite	
+noir	
+piessa	
+possession	
+premier	
+remontada	
+tabyas	
