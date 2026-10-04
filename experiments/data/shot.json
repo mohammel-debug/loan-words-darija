@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "root": "2otel",
+    "forms": [
+      "2otel",
+      "l2otel",
+      "loTil",
+      "loTilat",
+      "lhotel",
+      "lotel"
+    ]
+  },
+  {
+    "root": "alarm",
+    "forms": [
+      "lalarm",
+      "alarm"
+    ]
+  },
+  {
+    "root": "aplication",
+    "forms": [
+      "lapplication",
+      "application"
+    ]
+  },
+  {
+    "root": "asensor",
+    "forms": [
+      "assanssour",
+      "ssansour",
+      "ssanssour",
+      "ascenseur"
+    ]
+  },
+  {
+    "root": "banka",
+    "forms": [
+      "banka",
+      "lbanka"
+    ]
+  }
+]
+
